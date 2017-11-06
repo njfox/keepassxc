@@ -41,6 +41,8 @@ parts:
       - libxtst-dev
       - libyubikey-dev
       - libykpers-1-dev
+      - libqhttpengine-dev
+      - libcurl4-openssl-dev
     stage-packages:
       - dbus
       - qttranslations5-l10n # common translations
